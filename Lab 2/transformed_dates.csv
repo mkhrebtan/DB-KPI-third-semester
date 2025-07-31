@@ -1,0 +1,27 @@
+client_id,staff_id,description,Date
+1,1,"Property Purchase Agreement, Notarization of Adoption Papers",2024-01-10
+2,3,"Power of Attorney, Affidavit of Identity",2024-01-20
+3,4,"Business Incorporation, Contract Review, Business License Application",2024-02-01
+3,5,Contract Review,2024-02-10
+4,1,Affidavit of Identity,2024-02-15
+5,6,Lease Agreement Notarization,2024-03-01
+6,2,"Divorce Agreement, Vehicle Sale Agreement",2024-03-05
+6,3,Notarization of Medical Documents,2024-03-10
+7,4,Business License Application,2024-03-15
+7,5,Real Estate Purchase for Business,2024-04-01
+8,6,"Certified Copy of Passport, Notarization of Foreign Documents",2024-04-05
+9,7,Trademark Registration,2024-04-10
+10,8,Power of Attorney for Business Transactions,2024-04-15
+11,9,"Loan Agreement Notarization, Property Purchase Agreement",2024-05-01
+12,10,Corporate Resolution Notarization,2024-05-05
+13,11,Partnership Dissolution Agreement,2024-05-10
+14,12,"Investment Agreement Certification, Contract Review",2024-06-01
+15,13,Notarization of Foreign Documents,2024-06-10
+16,14,"Business Partnership Agreement, Contract Review",2024-06-15
+17,15,"Employment Contract Certification, Investment Agreement Certification, Contract Review",2024-07-01
+18,16,Shareholder Agreement Certification,2024-07-05
+19,17,Property Transfer Deed,2024-07-10
+20,18,General Partnership Agreement,2024-07-15
+3,19,Certification of Incorporation,2024-07-20
+9,20,"Real Estate Purchase for Business, Certification of Incorporation",2024-08-01
+1,2,"Will Preparation, Property Transfer Deed",2024-01-15

@@ -1,0 +1,6 @@
+SELECT address_id FROM address WHERE city IN ('Chicago', 'Atlanta');
+
+SELECT * FROM Discounts WHERE Percentage BETWEEN 10 AND 50;
+
+SELECT name FROM clients
+WHERE name LIKE '_ar%';

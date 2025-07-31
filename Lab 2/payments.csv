@@ -1,0 +1,21 @@
+Amount;Payment_Type;Client_ID;Documentation_ID
+396.00;In cash;1;1
+189.00;By bank card;2;2
+550.00;In cash;3;3
+175.00;By bank card;3;4
+67.50;By bank card;4;5
+153.00;By bank card;5;6
+400.00;By bank card;6;7
+90.00;By bank card;6;8
+122.50;In cash;7;9
+360.00;In cash;7;10
+170.00;In cash;8;11
+337.50;By bank card;9;12
+126.00;By bank card;10;13
+390.00;In cash;11;14
+140.00;By bank card;12;15
+297.50;By bank card;13;16
+390.00;In cash;14;17
+130.00;By bank card;15;18
+487.50;By bank card;16;19
+400.00;By bank card;17;20

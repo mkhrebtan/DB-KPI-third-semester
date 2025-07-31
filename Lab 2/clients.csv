@@ -1,0 +1,21 @@
+Name;Client_Type;Business_Type;Phone_Number;Address_ID;Email
+John Doe;Individual;NULL;5551234567;21;john.doe@example.com
+Jane Smith;Individual;NULL;5552345678;22;jane.smith@example.com
+Michael Johnson;Business;Real Estate;5553456789;23;michael.johnson@business.com
+Emily Davis;Individual;NULL;5554567890;24;emily.davis@example.com
+Chris Brown;Business;Consulting;5555678901;25;chris.brown@business.com
+Sarah Wilson;Individual;NULL;5556789012;26;sarah.wilson@example.com
+David Lee;Business;Construction;5557890123;27;david.lee@business.com
+Jessica Taylor;Individual;NULL;5558901234;28;jessica.taylor@example.com
+Robert Martinez;Business;Retail;5559012345;29;robert.martinez@business.com
+Linda Thomas;Individual;NULL;5550123456;30;linda.thomas@example.com
+William Anderson;Business;Finance;5551234568;31;william.anderson@business.com
+Elizabeth White;Individual;NULL;5552345679;32;elizabeth.white@example.com
+James Harris;Business;Marketing;5553456780;33;james.harris@business.com
+Patricia Lewis;Individual;NULL;5554567891;34;patricia.lewis@example.com
+Daniel Walker;Business;Technology;5555678902;35;daniel.walker@business.com
+Mary Hall;Individual;NULL;5556789013;36;mary.hall@example.com
+Anthony Young;Business;Insurance;5557890124;37;anthony.young@business.com
+Barbara King;Individual;NULL;5558901235;38;barbara.king@example.com
+Mark Wright;Business;Logistics;5559012346;39;mark.wright@business.com
+Susan Scott;Individual;NULL;5550123457;40;susan.scott@example.com
